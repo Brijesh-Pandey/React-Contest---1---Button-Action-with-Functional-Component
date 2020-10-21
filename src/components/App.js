@@ -14,7 +14,6 @@ function App() {
         Button
       </button>
       {para ? <p id="para">{para}</p> : ""}
-      {/* <p id="para">{this.state.para}</p> */}
     </div>
   );
 }
